@@ -3,6 +3,6 @@ Pillow
 numpy
 torch
 opencv-python-headless
-git+https://github.com/XPixelGroup/BasicSR.git
+basicsr
 realesrgan
-requests
+gdown
